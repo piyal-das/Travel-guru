@@ -10,7 +10,7 @@ const Booking = () => {
     const booking = place.find(bk => bk.id === Id); 
     const {name , details,origin} = booking;
     return (
-        <div className="banner_area">
+        <div className="display_area">
             <div className="menu_area">
                 <Header></Header>
             </div>

@@ -5,6 +5,9 @@
     border-radius: 5px;
     padding: 20px;
 }
+.banner_info{
+    color: #fff;
+}
 .background_input{
     width: 417px;
     height: 60px;

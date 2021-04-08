@@ -104,7 +104,7 @@ const Login = () => {
     }
 
     return (
-        <div>
+        <div className="display_area">
             <div className="menu_area">
                 <Header></Header>
             </div>

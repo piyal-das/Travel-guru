@@ -4,7 +4,7 @@ import './Destinition.css'
 
 const Destination = () => {
     return (
-        <div>
+        <div className="display_area">
             <div>
                 <Header></Header>
             </div>
@@ -57,8 +57,7 @@ const Destination = () => {
                                             <span>$52/ night</span>
                                         </div>
                                     </div>
-                                </div>
-                                
+                                </div>                               
                             </div>
                             <div className="col-md-5">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d2766243.7879151287!2d89.97055095426357!3d24.142547837459787!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1600294700894!5m2!1sen!2sbd" width="500px" height="600px" frameborder="0" style={{border:'0' }}allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
